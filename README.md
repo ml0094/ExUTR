@@ -1,3 +1,6 @@
+Fork of ExUTR by Zixia Huang (https://github.com/huangzixia/ExUTR/) correcting minor bugs and enforcing alternative design.
+All credits go to the initial author.
+
 
 ##ExUTR
 ###ChangeLog
@@ -20,7 +23,7 @@ ExUTR has been tested on Ubuntu 12.04 desktop but it should work on most Linux o
 
 **Workflow.** 
 
-![workflow] (https://github.com/huangzixia/ExUTR/blob/master/doc/workflow.png)
+#### - [Installation] (https://github.com/huangzixia/ExUTR/blob/master/doc/workflow.png)
 
 ###Comments and bug report
 
