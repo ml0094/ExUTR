@@ -1,4 +1,5 @@
 Fork of ExUTR by Zixia Huang (https://github.com/huangzixia/ExUTR/) correcting minor bugs and enforcing alternative design.
+Further forked from Paul Andrey https://github.com/pandrey-fr/ExUTR for edits to made to allow this to work with a modern swissprot database and on the WVU supercomputer
 All credits go to the initial author.
 
 
